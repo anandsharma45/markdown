@@ -1,10 +1,10 @@
 ---
-title: 'Content Entries'
-description: 'In your Contentful space, go to the “Content” tab.'
-slides: 10
-level: 'Beginner'
-author: 'john doe'
-designation: 'Senior Web Developer & Trainer'
+title: Content Entries
+description: In your Contentful space, go to the “Content” tab.
+slides: 4
+level: Beginner
+author: John Doe
+designation: Senior Web Developer & Trainer
 ---
 
 <!-- Slide 1 -->

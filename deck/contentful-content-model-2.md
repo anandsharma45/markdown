@@ -1,10 +1,10 @@
 ---
-title: 'Content Model'
-description: '**Content Model** defines the structure of content in Contentful.'
-slides: 10
-level: 'Beginner'
-author: 'john doe'
-designation: 'Senior Web Developer & Trainer'
+title: Content Model
+description: **Content Model** defines the structure of content in Contentful.
+slides: 9
+level: Beginner
+author: John Doe
+designation: Senior Web Developer & Trainer
 ---
 
 <!-- Slide 1 -->

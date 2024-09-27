@@ -1,10 +1,10 @@
 ---
-title: 'Content Management API'
-description: 'API that allows you to manage content, assets, and content types programmatically.'
-slides: 10
-level: 'Beginner'
-author: 'john doe'
-designation: 'Senior Web Developer & Trainer'
+title: Content Management API
+description: API that allows you to manage content, assets, and content types programmatically.
+slides: 9
+level: Beginner
+author: John Doe
+designation: Senior Web Developer & Trainer
 ---
 
 <!-- Slide 1 -->

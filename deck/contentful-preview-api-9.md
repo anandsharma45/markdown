@@ -1,10 +1,10 @@
 ---
-title: 'Content Preview API'
-description: 'The Content Preview API allows preview of unpublished content.'
-slides: 10
-level: 'Beginner'
-author: 'john doe'
-designation: 'Senior Web Developer & Trainer'
+title: Content Preview API
+description: The Content Preview API allows preview of unpublished content.
+slides: 6
+level: Beginner
+author: John Doe
+designation: Senior Web Developer & Trainer
 ---
 
 <!-- Slide 1 -->

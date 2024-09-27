@@ -1,10 +1,10 @@
 ---
-title: 'Content Custom Apps'
-description: 'Custom apps are external applications or interfaces that integrate directly into the Contentful environment.'
-slides: 10
-level: 'Beginner'
-author: 'john doe'
-designation: 'Senior Web Developer & Trainer'
+title: Content Custom Apps
+description: Custom apps are external applications or interfaces that integrate directly into the Contentful environment.
+slides: 7
+level: Beginner
+author: John Doe
+designation: Senior Web Developer & Trainer
 ---
 
 <!-- Slide 1 -->

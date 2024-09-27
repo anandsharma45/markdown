@@ -1,10 +1,10 @@
 ---
-title: 'Content Type'
-description: 'A **Content Type** in Contentful is a template that defines the structure of a particular type of content.'
-slides: 10
-level: 'Beginner'
-author: 'john doe'
-designation: 'Senior Web Developer & Trainer'
+title: Content Type
+description: A **Content Type** in Contentful is a template that defines the structure of a particular type of content.
+slides: 6
+level: Beginner
+author: John Doe
+designation: Senior Web Developer & Trainer
 ---
 
 <!-- Slide 1 -->
