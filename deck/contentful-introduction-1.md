@@ -1,3 +1,12 @@
+---
+title: 'Introduction to Contentful'
+description: 'Contentful is a cloud-based ***Headless CMS***.'
+slides: 10
+level: 'Beginner'
+author: 'john doe'
+designation: 'Senior Web Developer & Trainer'
+---
+
 <!-- Slide 1 -->
 # Introduction to Contentful
 

@@ -1,3 +1,12 @@
+---
+title: 'Content Management API'
+description: 'API that allows you to manage content, assets, and content types programmatically.'
+slides: 10
+level: 'Beginner'
+author: 'john doe'
+designation: 'Senior Web Developer & Trainer'
+---
+
 <!-- Slide 1 -->
 # Content Management API
 

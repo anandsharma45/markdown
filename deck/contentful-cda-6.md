@@ -1,3 +1,12 @@
+---
+title: 'Content Delivery API'
+description: 'API that allows you to retrieve published content.'
+slides: 10
+level: 'Beginner'
+author: 'john doe'
+designation: 'Senior Web Developer & Trainer'
+---
+
 <!-- Slide 1 -->
 # Content Delivery API
 

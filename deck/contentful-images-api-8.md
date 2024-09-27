@@ -1,3 +1,12 @@
+---
+title: 'Contentful Images API'
+description: 'Resize, crop, fit, and format images dynamically.'
+slides: 10
+level: 'Beginner'
+author: 'john doe'
+designation: 'Senior Web Developer & Trainer'
+---
+
 <!-- Slide 1 -->
 # Images API
 

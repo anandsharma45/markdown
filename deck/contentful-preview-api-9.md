@@ -1,3 +1,12 @@
+---
+title: 'Content Preview API'
+description: 'The Content Preview API allows preview of unpublished content.'
+slides: 10
+level: 'Beginner'
+author: 'john doe'
+designation: 'Senior Web Developer & Trainer'
+---
+
 <!-- Slide 1 -->
 # Content Preview API
 

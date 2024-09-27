@@ -1,3 +1,12 @@
+---
+title: 'Contentful Fields'
+description: 'Contentful offers a wide range of field types.'
+slides: 10
+level: 'Beginner'
+author: 'john doe'
+designation: 'Senior Web Developer & Trainer'
+---
+
 <!-- Slide 1 -->
 # Fields
 
