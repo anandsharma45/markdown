@@ -4,7 +4,7 @@ description: Resize, crop, fit, and format images dynamically.
 slides: 7
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

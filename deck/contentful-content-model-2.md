@@ -4,7 +4,7 @@ description: **Content Model** defines the structure of content in Contentful.
 slides: 9
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

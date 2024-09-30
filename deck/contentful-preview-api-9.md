@@ -4,7 +4,7 @@ description: The Content Preview API allows preview of unpublished content.
 slides: 6
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

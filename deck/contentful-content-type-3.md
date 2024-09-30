@@ -4,7 +4,7 @@ description: A **Content Type** in Contentful is a template that defines the str
 slides: 6
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

@@ -4,7 +4,7 @@ description: Custom apps are external applications or interfaces that integrate 
 slides: 7
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

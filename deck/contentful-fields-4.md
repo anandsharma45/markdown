@@ -4,7 +4,7 @@ description: Contentful offers a wide range of field types.
 slides: 11
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

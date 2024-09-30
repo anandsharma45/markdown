@@ -4,7 +4,7 @@ description: In your Contentful space, go to the “Content” tab.
 slides: 4
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

@@ -4,7 +4,7 @@ description: Contentful is a cloud-based ***Headless CMS***.
 slides: 10
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->

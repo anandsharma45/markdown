@@ -4,7 +4,7 @@ description: API that allows you to manage content, assets, and content types pr
 slides: 9
 level: Beginner
 author: Neha Prakash
-designation: Senior Web Developer & Trainer
+designation: Technical Delivery Manager & Trainer
 ---
 
 <!-- Slide 1 -->
