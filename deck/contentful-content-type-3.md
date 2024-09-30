@@ -1,6 +1,6 @@
 ---
 title: Content Type
-description: A **Content Type** in Contentful is a template that defines the structure of a particular type of content.
+description: A Content Type in Contentful is a template that defines the structure of a particular type of content.
 slides: 6
 level: Beginner
 author: Neha Prakash

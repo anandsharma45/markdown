@@ -1,6 +1,6 @@
 ---
 title: Introduction to Contentful
-description: Contentful is a cloud-based ***Headless CMS***.
+description: Contentful is a cloud-based Headless CMS.
 slides: 10
 level: Beginner
 author: Neha Prakash
