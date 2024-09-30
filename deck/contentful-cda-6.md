@@ -3,7 +3,7 @@ title: Content Delivery API
 description: API that allows you to retrieve published content.
 slides: 8
 level: Beginner
-author: John Doe
+author: Neha Prakash
 designation: Senior Web Developer & Trainer
 ---
 

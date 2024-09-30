@@ -3,7 +3,7 @@ title: Contentful Fields
 description: Contentful offers a wide range of field types.
 slides: 11
 level: Beginner
-author: John Doe
+author: Neha Prakash
 designation: Senior Web Developer & Trainer
 ---
 

@@ -3,7 +3,7 @@ title: Content Preview API
 description: The Content Preview API allows preview of unpublished content.
 slides: 6
 level: Beginner
-author: John Doe
+author: Neha Prakash
 designation: Senior Web Developer & Trainer
 ---
 

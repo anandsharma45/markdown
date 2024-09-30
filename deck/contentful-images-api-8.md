@@ -3,7 +3,7 @@ title: Contentful Images API
 description: Resize, crop, fit, and format images dynamically.
 slides: 7
 level: Beginner
-author: John Doe
+author: Neha Prakash
 designation: Senior Web Developer & Trainer
 ---
 

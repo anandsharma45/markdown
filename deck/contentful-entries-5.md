@@ -3,7 +3,7 @@ title: Content Entries
 description: In your Contentful space, go to the “Content” tab.
 slides: 4
 level: Beginner
-author: John Doe
+author: Neha Prakash
 designation: Senior Web Developer & Trainer
 ---
 

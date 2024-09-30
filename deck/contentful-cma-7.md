@@ -3,7 +3,7 @@ title: Content Management API
 description: API that allows you to manage content, assets, and content types programmatically.
 slides: 9
 level: Beginner
-author: John Doe
+author: Neha Prakash
 designation: Senior Web Developer & Trainer
 ---
 
